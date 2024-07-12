@@ -1,6 +1,3 @@
-Here's a template for a `README.md` file that includes setup instructions, usage guidelines, and an overview of the project architecture:
-
-```markdown
 # Web App Portfolio Project
 
 ## Overview
