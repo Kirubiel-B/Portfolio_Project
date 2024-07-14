@@ -86,7 +86,7 @@ The web app portfolio project has been a significant learning experience for bot
 
 For any questions or feedback, please contact:
 
-- Kirubiel: [kirubiel@example.com](mailto:kirubiel@example.com)
-- Haven: [haven@example.com](mailto:haven@example.com)
+- Kirubiel: [kirubelkeb@gmail.com](mailto:kirubelkeb@gmail.com)
+- Haven: [havenhailemariam@gmail.com](mailto:havenhailemariam@gmail.com)
 ```
 
