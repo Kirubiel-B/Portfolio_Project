@@ -9,6 +9,7 @@ The Web App Portfolio Project is a web application designed to showcase the port
 - **Kirubiel Beza**
 - **Haven Hailemariam**
 
+
 ## Project Architecture
 
 ### Frontend
